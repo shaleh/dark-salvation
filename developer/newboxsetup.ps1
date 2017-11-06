@@ -6,7 +6,7 @@ iex ((new-object net.webclient).DownloadString('http://chocolatey.org/install.ps
 # install applications
 cinst ChocolateyGUI
 cinst Emacs
-cinst notepadplusplus-withuninstall
+cinst notepadplusplus
 cinst putty.install
 cinst passwordSafe
 cinst GoogleChrome
